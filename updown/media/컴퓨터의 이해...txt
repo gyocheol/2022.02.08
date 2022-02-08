@@ -1,0 +1,9 @@
+Program : 실행파일
+
+Process : 프로그램이 실제로 실행됨 = 객체
+
+Thread : Process에서 실제로 일하고 있는 작업(커서 깜빡거리는 것, 화면에 출력하는 것 등등)
+
+클라이언트와 서버의 관계는 클라이언트가 서버를 thread로 관리한다.
+서버에 어떤 클라이언트가 연결되어있는 걸 아는것이 session
+session에 login된 myname을 넣어놈
